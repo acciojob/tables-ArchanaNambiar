@@ -19,3 +19,4 @@
 #total{
 	text-align:right;
 }
+.table tr:hover {background-color: #ddd;}
